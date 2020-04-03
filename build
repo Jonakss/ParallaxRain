@@ -1,0 +1,1 @@
+g++ -c main.cpp Drop.cpp && g++ main.o Drop.o -o PRain -lsfml-graphics -lsfml-window -lsfml-system && ./PRain
